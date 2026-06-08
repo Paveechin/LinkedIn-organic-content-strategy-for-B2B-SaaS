@@ -6,9 +6,9 @@
 
 | Channels       | Link                                | Followers | 
 |----------------|-------------------------------------|-----------|
-| **LinkedIn**   | (https://linkedin.com/in/mattgray1) |  275K+    |
+| **LinkedIn**   | https://linkedin.com/in/mattgray1 |  275K+    |
 | **YouTube**    | https://youtube.com/@realmattgray   |   911K+   |
-| **Website**    | (https://founderos.com)             |      -    |
+| **Website**    | https://founderos.com           |      -    |
 
 Date Collected:
 2026-06-08
