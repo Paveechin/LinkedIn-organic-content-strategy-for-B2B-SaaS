@@ -219,6 +219,8 @@ Want to see how I grade every offer I build to make sure it hits all 4 levels be
 
 Get the complete framework here: https://fos.now/BsVubv
 
+---
+
 ## Post 3 - June 6, 2026
 **Topic:** Notebooks are the new operating systems
 
