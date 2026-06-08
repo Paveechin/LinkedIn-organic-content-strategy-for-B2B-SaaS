@@ -1,12 +1,12 @@
         # how to build a business so magnetic your customers chase you
 
-        | Field       | Value |
-        |-------------|-------|
-        | **Channel** | Matt Gray |
-        | **Video ID**| [XWOsLExQeVM](https://www.youtube.com/watch?v=XWOsLExQeVM) |
-        | **Published**| 2026-06-02 |
-        | **Language**| en |
-        | **Fetched** | 2026-06-08T12:27:18.569439+00:00 |
+| Field       | Value |
+|-------------|-------|
+| **Channel** | Matt Gray |
+| **Video ID**| [XWOsLExQeVM](https://www.youtube.com/watch?v=XWOsLExQeVM) |
+| **Published**| 2026-06-02 |
+| **Language**| en |
+| **Fetched** | 2026-06-08T12:27:18.569439+00:00 |
 
         ## Description
 
