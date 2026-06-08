@@ -10,7 +10,7 @@
 
  ## Description
 
-        Want to work with me? Go here: https://fos.now/xNUPvD
+Want to work with me? Go here: https://fos.now/xNUPvD
 
 There are two kinds of businesses, and you can feel the difference the moment you walk into either one.
 
