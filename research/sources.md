@@ -1,10 +1,8 @@
-# Expert Sources 
-
 ## Research Topic: LinkedIn Organic Content Strategy for B2B SaaS
 
 ## Matt Gray 
 
-| Channels       | Link                                | Followers | 
+| Channels       | Links                                | Followers | 
 |----------------|-------------------------------------|-----------|
 | **LinkedIn**   | https://linkedin.com/in/mattgray1 |  911K+    |
 | **YouTube**    | https://youtube.com/@realmattgray   |   275K+   |
@@ -18,7 +16,7 @@ Matt Gray is a Founder & CEO of Founder OS claimed "Founder OS builds the system
 
 ## Justin Welsh
 
-| Channels       | Link                                | Followers | 
+| Channels       | Links                                | Followers | 
 |----------------|-------------------------------------|-----------|
 | **LinkedIn**   | https://www.linkedin.com/in/justinwelsh/ |  850K+    |
 | **Website**    | https://justinwelsh.me/           |      -    |
@@ -28,3 +26,17 @@ Matt Gray is a Founder & CEO of Founder OS claimed "Founder OS builds the system
 
 **Brief annotations:**
 Justin Welsh currently is a writer & entrepreneur, which his professional background was Chief Revenue Officer at a venture-backed company. He wrote many essays related to linkedIn sccuess & LinkedIn growth, business growth and content creation. Moreover, he has obtained a lot of audience reach on LinkedIn and has been appearing in many people podcast on Youtube as a model.
+
+# Diandra Escobar
+
+| Channels       | Links                                | Followers | 
+|----------------|-------------------------------------|-----------|
+| **LinkedIn**   | https://www.linkedin.com/in/diandraescobar/ |  40K+    |
+| **YouTube**    | https://www.youtube.com/@diandraescobarr/featured   |   5K+   |
+| **Website**    | https://www.diandraescobar.com/           |      -    |
+
+**Date Collected:**
+2026-06-08
+
+**Brief annotations:**
+Diandra Escobar is a Founder of Distinctiva.io claimed "we grow brands through organic content". She has built contents related to LinkedIn content & growth as well as she shows her successful work for her clients demonstrated by also showing competing figures.
