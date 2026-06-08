@@ -11,10 +11,6 @@
 **Date Collected:**
 2026-06-08
 
-Brief annotations:
-| — | Unknown | XWOsLExQeVM | [▶ Watch](https://www.youtube.com/watch?v=XWOsLExQeVM) | [📄 Transcript](youtube-transcripts/unknown/XWOsLExQeVM_xwoslexqevm.md) |
-| 2026-06-07 | Diandra Escobar | The Delusional World of LinkedIn Influencers | [▶ Watch](https://www.youtube.com/watch?v=u66RUn_rTbc) | [📄 Transcript](youtube-transcripts/diandra-escobar/u66RUn_rTbc_the-delusional-world-of-linkedin-influencers.md) |
-
 **Brief annotations:**
 Matt Gray is a Founder & CEO of Founder OS claimed "Founder OS builds the systems that let your business grow without you in the room". Moreover, he has gained a high amount of followers and built many contents related to business, Linkedin and content creation through his social media platforms.
 
