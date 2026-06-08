@@ -13,3 +13,4 @@ Dates Accessed:
 
 Brief annotations:
 | — | Unknown | XWOsLExQeVM | [▶ Watch](https://www.youtube.com/watch?v=XWOsLExQeVM) | [📄 Transcript](youtube-transcripts/unknown/XWOsLExQeVM_xwoslexqevm.md) |
+| 2026-06-07 | Diandra Escobar | The Delusional World of LinkedIn Influencers | [▶ Watch](https://www.youtube.com/watch?v=u66RUn_rTbc) | [📄 Transcript](youtube-transcripts/diandra-escobar/u66RUn_rTbc_the-delusional-world-of-linkedin-influencers.md) |
