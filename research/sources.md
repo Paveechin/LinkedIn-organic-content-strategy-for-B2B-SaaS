@@ -12,3 +12,4 @@ Dates Accessed:
 2026-06-08
 
 Brief annotations:
+| — | Unknown | XWOsLExQeVM | [▶ Watch](https://www.youtube.com/watch?v=XWOsLExQeVM) | [📄 Transcript](youtube-transcripts/unknown/XWOsLExQeVM_xwoslexqevm.md) |
