@@ -20,7 +20,7 @@ Matt Gray is a Founder & CEO of Founder OS claimed "Founder OS builds the system
 
 | Channels       | Link                                | Followers | 
 |----------------|-------------------------------------|-----------|
-| **LinkedIn**   | https://www.linkedin.com/in/justinwelsh/ |  850+    |
+| **LinkedIn**   | https://www.linkedin.com/in/justinwelsh/ |  850K+    |
 | **Website**    | https://justinwelsh.me/           |      -    |
 
 **Date Collected:**
