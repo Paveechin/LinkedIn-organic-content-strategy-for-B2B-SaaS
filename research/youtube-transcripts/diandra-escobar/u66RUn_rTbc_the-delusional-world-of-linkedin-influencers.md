@@ -6,7 +6,7 @@
         | **Video ID**| [u66RUn_rTbc](https://www.youtube.com/watch?v=u66RUn_rTbc) |
         | **Published**| 2026-06-07 |
         | **Language**| en |
-        | **Fetched** | 2026-06-08T14:54:51.186188+00:00 |
+        | **Fetched** | 2026-06-08T14:56:16.732885+00:00 |
 
         ## Description
 
