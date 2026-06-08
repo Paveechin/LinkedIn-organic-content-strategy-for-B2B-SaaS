@@ -45,6 +45,7 @@ except ImportError:
 # ─── Configuration ────────────────────────────────────────────────────────────
 
 API_KEY = os.environ.get("SUPADATA_API_KEY", "")
+YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
 BASE_URL = "https://api.supadata.ai/v1"
 REPO_ROOT = Path(".")          # Change to your repo root if needed
 RESEARCH_DIR = REPO_ROOT / "research"
@@ -106,18 +107,32 @@ def fetch_transcript(video_url: str) -> dict:
 
 
 def fetch_video_metadata(video_id: str) -> dict:
-    """Fetch video title, channel, date from Supadata."""
+    """Fetch video title, channel, date from YouTube Data API v3."""
+    if not YOUTUBE_API_KEY:
+        print("  ⚠️  YOUTUBE_API_KEY not set — channel/title will show as Unknown")
+        return {}
     try:
         resp = requests.get(
-            f"{BASE_URL}/youtube/video",
-            headers=supadata_headers(),
-            params={"videoId": video_id},
+            "https://www.googleapis.com/youtube/v3/videos",
+            params={
+                "id": video_id,
+                "part": "snippet",
+                "key": YOUTUBE_API_KEY,
+            },
             timeout=15,
         )
         if resp.ok:
-            return resp.json()
-    except Exception:
-        pass
+            items = resp.json().get("items", [])
+            if items:
+                snippet = items[0]["snippet"]
+                return {
+                    "title": snippet.get("title", video_id),
+                    "channelTitle": snippet.get("channelTitle", "Unknown"),
+                    "publishedAt": snippet.get("publishedAt", ""),
+                    "description": snippet.get("description", ""),
+                }
+    except Exception as e:
+        print(f"  ⚠️  YouTube API error: {e}")
     return {}
 
 
