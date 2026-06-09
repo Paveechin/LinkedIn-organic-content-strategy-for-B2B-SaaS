@@ -310,7 +310,6 @@ def main():
             print(f"  ❌  Unexpected error: {e}")
         print()
 
-    update_sources_md(results)
 
     print(f"\n🎉  Done! {len(results)}/{len(urls)} transcripts saved.")
     print(f"    Repo structure updated under: {RESEARCH_DIR}")
