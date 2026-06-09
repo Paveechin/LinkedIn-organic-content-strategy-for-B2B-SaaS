@@ -85,7 +85,7 @@ Rob Walling is a B2B SaaS founder, investor, and ecosystem builder focused on bo
 **Brief annotations:**
 TK Kader is the Founder of the Unstoppable GTM Program which help Founders go from an undefined GTM strategy into a well defined and scalable GTM strategy. He has been specifically shooting contents related to Marketing, B2B, and SaaS. Furthermroe, he expertises  in scaling SaaS business and GTM strategy.
 
-# Jason Lemkin
+## Jason Lemkin
 
 | Channels       | Links                                | Followers | 
 |----------------|-------------------------------------|-----------|
@@ -99,3 +99,17 @@ TK Kader is the Founder of the Unstoppable GTM Program which help Founders go fr
 **Brief annotations:**
 Jason Lemkin is the Founder and CEO of SaaStr. He dicusses about AI, SaaS, and B2B on social media as well as he has been appearing in many Youtubers videos in Saas contents. 
 
+## Lenny Rachitsky
+
+| Channels       | Links                                | Followers | 
+|----------------|-------------------------------------|-----------|
+| **LinkedIn**   | https://www.linkedin.com/in/lennyrachitsky/ |  370K+    |
+| **YouTube**    | https://www.youtube.com/@LennysPodcast/videos   |   640K+   |
+| **Newsletter**    | https://www.lennysnewsletter.com/   |  -   |
+
+
+**Date Collected:**
+2026-06-09
+
+**Brief annotations:**
+Lenny Rachitsky currently is an author on Newsletter and podcast host on Youtube creating useful contents that includeiInterviews with world-class product leaders and growth experts to uncover concrete, actionable, and tactical advice to help you build, launch, and grow your own product. Moreover, some of his contents consist of SaaS, B2B, AI and LinkedIn.
