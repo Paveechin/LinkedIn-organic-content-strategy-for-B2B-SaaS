@@ -119,7 +119,7 @@ Lenny Rachitsky currently is an author on Newsletter and podcast host on Youtube
 | Channels       | Links                                | Followers | 
 |----------------|-------------------------------------|-----------|
 | **YouTube**    | https://www.youtube.com/@MillieAdrian/videos   |   740K+   |
-| **Instagram**    | https://www.instagram.com/itsmodernmillie/   |  280+   |
+| **Instagram**    | https://www.instagram.com/itsmodernmillie/   |  280K+   |
 
 
 **Date Collected:**
@@ -127,3 +127,17 @@ Lenny Rachitsky currently is an author on Newsletter and podcast host on Youtube
 
 **Brief annotations:**
 Modern Millie is an online educator and YouTuber teaching Content Creators. She has been creating very useful contents that are actually working for conten creators. Furthermore, she teaches the usge of Adobe and AI tools to provide easier wasys of making contents as well as her contents are about social media management, viral strategy, and content plans which could make the process of content making easier and faster.
+
+## Kallaway
+
+| Channels       | Links                                | Followers | 
+|----------------|-------------------------------------|-----------|
+| **YouTube**    | https://www.youtube.com/@kallawaymarketing/videos   |   390K+   |
+| **Instagram**    | https://www.instagram.com/Kallaway/   |  430K+   |
+
+
+**Date Collected:**
+2026-06-09
+
+**Brief annotations:**
+Kallaway claimed that "I currently generates 30M+ views/month on my personal channels (1B+ views total) and have worked with brands like Meta, Google, Adobe, Nvidia, Salesforce, and countless tech startups." and "I help builders grow their businesses faster." He creates contents associated to AI, personal brand, writing storytelling & hook, pyschology of content, and social media algorithms. 
