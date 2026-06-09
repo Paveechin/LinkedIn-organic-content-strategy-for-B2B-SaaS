@@ -44,3 +44,4 @@ Justin Welsh currently is a writer & entrepreneur, which his professional backgr
 
 **Brief annotations:**
 Diandra Escobar is a Founder of Distinctiva.io claimed "we grow brands through organic content". She has built contents related to LinkedIn content & growth as well as she shows her successful work for her clients demonstrated by also showing competing figures.
+| 2026-06-06 | Lara Acosta | page 3 proves how to beat LinkedIn, just give me 27 min (2026) | [▶ Watch](https://www.youtube.com/watch?v=e3E83C-Xxn0) | [📄 Transcript](youtube-transcripts/lara-acosta/e3E83C-Xxn0_page-3-proves-how-to-beat-linkedin-just-give-me-27-min-2026.md) |
