@@ -53,10 +53,3 @@ Diandra Escobar is a Founder of Distinctiva.io claimed "we grow brands through o
 
 **Brief annotations:**
 Lara Acosta is a Founder of Literally Academy, Co-founder of Kleo,and LinkedIn growth creator. She has created useful content for Saas company and founders on her social media platforms related to AI usge, content creation, personal branding and LinkedIn. Moreover, she became the number 1 female creator on LinkedIn by building her personal brand and agency in 2023.
-<<<<<<< HEAD
-| 2026-06-06 | Lara Acosta | page 3 proves how to beat LinkedIn, just give me 27 min (2026) | [▶ Watch](https://www.youtube.com/watch?v=e3E83C-Xxn0) | [📄 Transcript](youtube-transcripts/lara-acosta/e3E83C-Xxn0_page-3-proves-how-to-beat-linkedin-just-give-me-27-min-2026.md) |
-| 2026-05-05 | Lara Acosta | 50 Strangers Grill 2 LinkedIn Experts (Unfiltered) | [▶ Watch](https://www.youtube.com/watch?v=7SKd2cchGd4) | [📄 Transcript](youtube-transcripts/lara-acosta/7SKd2cchGd4_50-strangers-grill-2-linkedin-experts-unfiltered.md) |
-=======
-
-
->>>>>>> 7045f6da4ae8e6b621cde2cdb990a3c965dd4b7e
