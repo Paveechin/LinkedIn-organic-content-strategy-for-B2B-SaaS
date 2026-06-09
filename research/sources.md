@@ -40,8 +40,6 @@ Justin Welsh currently is a writer & entrepreneur, which his professional backgr
 
 **Brief annotations:**
 Diandra Escobar is a Founder of Distinctiva.io claimed "we grow brands through organic content". She has built contents related to LinkedIn content & growth as well as she shows her successful work for her clients demonstrated by also showing competing figures.
-<<<<<<< HEAD
-| 2026-06-06 | Lara Acosta | page 3 proves how to beat LinkedIn, just give me 27 min (2026) | [▶ Watch](https://www.youtube.com/watch?v=e3E83C-Xxn0) | [📄 Transcript](youtube-transcripts/lara-acosta/e3E83C-Xxn0_page-3-proves-how-to-beat-linkedin-just-give-me-27-min-2026.md) |
 
 ## Lara Acosta
 
@@ -55,7 +53,4 @@ Diandra Escobar is a Founder of Distinctiva.io claimed "we grow brands through o
 
 **Brief annotations:**
 Lara Acosta is a Founder of Literally Academy, Co-founder of Kleo,and LinkedIn growth creator. She has created useful content for Saas company and founders on her social media platforms related to AI usge, content creation, personal branding and LinkedIn. Moreover, she became the number 1 female creator on LinkedIn by building her personal brand and agency in 2023.
-
-
-
->>>>>>> 80184b9a07679ffb265a1905d01e0a974a7c7690
+| 2026-06-06 | Lara Acosta | page 3 proves how to beat LinkedIn, just give me 27 min (2026) | [▶ Watch](https://www.youtube.com/watch?v=e3E83C-Xxn0) | [📄 Transcript](youtube-transcripts/lara-acosta/e3E83C-Xxn0_page-3-proves-how-to-beat-linkedin-just-give-me-27-min-2026.md) |
