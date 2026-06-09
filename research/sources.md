@@ -12,7 +12,7 @@
 2026-06-08
 
 **Brief annotations:**
-Matt Gray is a Founder & CEO of Founder OS claimed "Founder OS builds the systems that let your business grow without you in the room". Moreover, he has gained a high amount of followers and built many contents related to business, Linkedin and content creation through his social media platforms.
+Matt Gray is the Founder & CEO of Founder OS claimed "Founder OS builds the systems that let your business grow without you in the room". Moreover, he has gained a high amount of followers and built many contents related to business, Linkedin and content creation through his social media platforms.
 
 ## Justin Welsh
 
@@ -39,7 +39,7 @@ Justin Welsh currently is a writer & entrepreneur, which his professional backgr
 2026-06-08
 
 **Brief annotations:**
-Diandra Escobar is a Founder of Distinctiva.io claimed "we grow brands through organic content". She has built contents related to LinkedIn content & growth as well as she shows her successful work for her clients demonstrated by also showing competing figures.
+Diandra Escobar is the Founder of Distinctiva.io claimed "we grow brands through organic content". She has built contents related to LinkedIn content & growth as well as she shows her successful work for her clients demonstrated by also showing competing figures.
 
 ## Lara Acosta
 
@@ -52,7 +52,7 @@ Diandra Escobar is a Founder of Distinctiva.io claimed "we grow brands through o
 2026-06-09
 
 **Brief annotations:**
-Lara Acosta is a Founder of Literally Academy, Co-founder of Kleo,and LinkedIn growth creator. She has created useful content for SaaS company and founders on her social media platforms related to AI usge, content creation, personal branding and LinkedIn. Moreover, she became the number 1 female creator on LinkedIn by building her personal brand and agency in 2023.
+Lara Acosta is the Founder of Literally Academy, Co-founder of Kleo,and LinkedIn growth creator. She has created useful content for SaaS company and founders on her social media platforms related to AI usge, content creation, personal branding and LinkedIn. Moreover, she became the number 1 female creator on LinkedIn by building her personal brand and agency in 2023.
 
 ## Rob Walling 
 
@@ -66,8 +66,8 @@ Lara Acosta is a Founder of Literally Academy, Co-founder of Kleo,and LinkedIn g
 2026-06-09
 
 **Brief annotations:**
-Rob Walling is a B2B SaaS founder, investor, and ecosystem builder focused on bootstrapped software companies. He is na expert of B2B SaaS building and he claimed the following results > "✅️ A founder I invested in, Eran Galperin, sold a majority stake in his company GymDesk for $32.5 million.
-✅️ The “Millionaire Rate” of my startup accelerator is 43% (of all our companies no longer in operation, 43% of the founders are millionaires)
+Rob Walling is a B2B SaaS founder, investor, and ecosystem builder focused on bootstrapped software companies. He is na expert of B2B SaaS building and he claimed the following results > "✅️ The Founder I invested in, Eran Galperin, sold a majority stake in his company GymDesk for $32.5 million.
+✅️ The “Millionaire Rate” of my startup accelerator is 43% (of all our companies no longer in operation, 43% of the Founders are millionaires)
 ✅️ I’ve invested and advised 212 SaaS startups, dozens of which are now doing 7 or 8 figures in annual revenue
 ✅️ My podcast, Startups For the Rest of Us, has more than 15M downloads, and hundreds of listeners have grown to 7 or 8 figures."
 
@@ -84,4 +84,18 @@ Rob Walling is a B2B SaaS founder, investor, and ecosystem builder focused on bo
 
 **Brief annotations:**
 TK Kader is the Founder of the Unstoppable GTM Program which help Founders go from an undefined GTM strategy into a well defined and scalable GTM strategy. He has been specifically shooting contents related to Marketing, B2B, and SaaS. Furthermroe, he expertises  in scaling SaaS business and GTM strategy.
+
+# Jason Lemkin
+
+| Channels       | Links                                | Followers | 
+|----------------|-------------------------------------|-----------|
+| **LinkedIn**   | https://www.linkedin.com/in/jasonmlemkin/ |  300K+    |
+| **YouTube**    | https://www.youtube.com/@Jasonlk/videos   |   8K+   |
+
+
+**Date Collected:**
+2026-06-09
+
+**Brief annotations:**
+Jason Lemkin is the Founder and CEO of SaaStr. He dicusses about AI, SaaS, and B2B on social media as well as he has been appearing in many Youtubers videos in Saas contents. 
 
