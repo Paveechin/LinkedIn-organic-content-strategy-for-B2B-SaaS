@@ -1,4 +1,10 @@
-## Research Topic: LinkedIn Organic Content Strategy for B2B SaaS
+# Research Topic: LinkedIn Organic Content Strategy for B2B SaaS
+
+## Selection criteria
+- Credibility on social media, including channels and follower base
+- Proven experience in both writing and practical implementation
+- Established professional roles with credibility
+- Consistent and regular channel updates
 
 ## Matt Gray 
 
@@ -141,3 +147,5 @@ Modern Millie is an online educator and YouTuber teaching Content Creators. She 
 
 **Brief annotations:**
 Kallaway claimed that "I currently generates 30M+ views/month on my personal channels (1B+ views total) and have worked with brands like Meta, Google, Adobe, Nvidia, Salesforce, and countless tech startups." and "I help builders grow their businesses faster." He creates contents associated to AI, personal brand, writing storytelling & hook, pyschology of content, and social media algorithms. 
+
+
