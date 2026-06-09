@@ -113,3 +113,17 @@ Jason Lemkin is the Founder and CEO of SaaStr. He dicusses about AI, SaaS, and B
 
 **Brief annotations:**
 Lenny Rachitsky currently is an author on Newsletter and podcast host on Youtube creating useful contents that includeiInterviews with world-class product leaders and growth experts to uncover concrete, actionable, and tactical advice to help you build, launch, and grow your own product. Moreover, some of his contents consist of SaaS, B2B, AI and LinkedIn.
+
+## Modern Millie
+
+| Channels       | Links                                | Followers | 
+|----------------|-------------------------------------|-----------|
+| **YouTube**    | https://www.youtube.com/@MillieAdrian/videos   |   740K+   |
+| **Instagram**    | https://www.instagram.com/itsmodernmillie/   |  280+   |
+
+
+**Date Collected:**
+2026-06-09
+
+**Brief annotations:**
+Modern Millie is an online educator and YouTuber teaching Content Creators. She has been creating very useful contents that are actually working for conten creators. Furthermore, she teaches the usge of Adobe and AI tools to provide easier wasys of making contents as well as her contents are about social media management, viral strategy, and content plans which could make the process of content making easier and faster.
